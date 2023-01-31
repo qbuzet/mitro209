@@ -1,0 +1,22 @@
+21
+test/graph.txt 0
+test/test1.txt 0
+test/test2.txt 0
+test/test3.txt 0
+data/ca-AstroPh_ri.txt 1
+data/ca-HepPh_ri.txt 1
+data/com-amazon.ungraph_ri.txt 0
+data/com-dblp.ungraph_ri.txt 0
+data/as20000102_ri.txt 0
+data/HR_edges_ri.txt 0
+data/HU_edges_ri.txt 0
+data/RO_edges_ri.txt 0
+data/large_twitch_edges_ri.txt 0
+data/tvshow_edges_ri.txt 0
+data/public_figure_edges_ri.txt 0
+data/politician_edges_ri.txt 0
+data/new_sites_edges_ri.txt 0
+data/government_edges_ri.txt 0
+data/company_edges_ri.txt 0
+data/athletes_edges_ri.txt 0
+data/artist_edges_ri.txt 0
